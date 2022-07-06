@@ -1,5 +1,3 @@
-
-
 $(document).ready(
     () => {
         gsap.from("#arda1", {duration:1.5 ,x:"-100vw", opacity:0 })
